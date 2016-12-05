@@ -1,5 +1,5 @@
 {
-    "name": "expcommerce/amazon-mws-orders",
+    "name": "adaulfo/amazon-mws-orders",
     "description": "Amazon MWS Orders API with Composer integration",
     "license": "Apache-2.0",
     "keywords": [
